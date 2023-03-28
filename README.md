@@ -1,4 +1,4 @@
-### <div align="center">Soy un Desarrollador web Full Stack,con pasión por resolver problemas y aprender constantemente nuevas tecnologías. Programar me resulta una actividad creativa y gratificante. </div>  
+### <div align="center">Soy un Desarrollador web Full Stack,con pasión por resolver problemas y aprender constantemente nuevas tecnologías.  </div>  
   
 
 <br/>  
