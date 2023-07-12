@@ -3,7 +3,7 @@
 </div>  
   
 
-***<ins><div align="center">Soy un Desarrollador web Full Stack,con pasión por resolver problemas y aprender constantemente nuevas tecnologías.</div></ins>***  
+## *<div align="center">Soy un Desarrollador web Full Stack,con pasión por resolver problemas y aprender constantemente nuevas tecnologías.</div>*  
   
 
 <br/>  
@@ -92,6 +92,5 @@ If things goes well, this section should automatically be replaced by a list of 
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>  
   
-
 
 
