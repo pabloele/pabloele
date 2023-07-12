@@ -3,7 +3,7 @@
 </div>  
   
 
-## *<div align="center">Soy un Desarrollador web Full Stack,con pasión por resolver problemas y aprender constantemente nuevas tecnologías.</div>*  
+## *<div align="center">Full Stack developer with a genuine passion for problem-solving and a constant drive to learn new technologies.</div>*  
   
 
 <br/>  
